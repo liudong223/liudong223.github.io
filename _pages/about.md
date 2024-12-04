@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a fourth year PhD student in Learning Design and Technology program, Department of Curriculum and Instruction, College of Education, Purdue University.
+I'm currently a fourth year PhD student in Learning Design and Technology program, Department of Curriculum and Instruction, College of Education, Purdue University. 
 
 🎓Education
 ======
