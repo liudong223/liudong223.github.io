@@ -215,7 +215,7 @@ collections:
     permalink: /https://liudong223.github.io/teaching.html/
   publications:
     output: true
-    permalink: /https://liudong223.github.io/_publications/
+    permalink: /https://github.com/liudong223/liudong223.github.io/tree/16f075dc7a5283fa1df0ce9ae7204c25d7a8d950/_publications/
   portfolio:
     output: true
     permalink: /:collection/:path/
