@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Liu Dong / 董柳"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Liu"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   name             : "Liu Dong"
   pronouns         : "she/her"  
   location         : "West Lafayette, IN, USA"
-  employer         : "Red Brick University"
+  employer         : "Purdue University"
   uri              : # URL
   email            : "dong306@purdue.edu" 
 
@@ -35,7 +35,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-4105-2144"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Liu-Dong-47"
   scopus           : # URL
 
