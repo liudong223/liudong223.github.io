@@ -6,13 +6,13 @@
 
 main:
   - title: "Publications"
-    url: /https://liudong223.github.io/_publications/
+    url: /_publications/
 
   - title: "Conference Presentations"
     url: /Conference Presentations/    
 
   - title: "Teaching"
-    url: /https://liudong223.github.io/_teaching/    
+    url: /_teaching/    
     
   - title: "Service"
     url: /portfolio/
