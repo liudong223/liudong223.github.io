@@ -12,13 +12,17 @@ I'm currently a fourth year PhD student in Learning, Design and Technology progr
 
 🎓Education
 ======
-2021 - 2026 PhD. Learning, Design and Technology, Purdue University, USA
-2017 - 2020 M.A. Linguistics, Beijing University of Posts and Telecommunications, China
-2012 - 2016 B.A. English, China Three Gorges University, China
+2021 - 2026 PhD. Learning, Design and Technology, Purdue University, USA  
+2017 - 2020 M.A. Linguistics, Beijing University of Posts and Telecommunications, China  
+2012 - 2016 B.A. English, China Three Gorges University, China  
+
+
 
 🎉News
 ======
-2024.11 Our paper Unveiling novice instructional designers’ professional identity: exploring dispositions through future-oriented reflections[https://link.springer.com/article/10.1007/s10734-024-01366-z] is publised in Higher Education Journal (Impact Factor:5.0, indexed in SSCI)
-2024.11 My two first-author submissions for AERA are accepted!
+2024.11 Our paper [Unveiling novice instructional designers’ professional identity: exploring dispositions through future-oriented reflections](https://link.springer.com/article/10.1007/s10734-024-01366-z) is publised in Higher Education Journal (Impact Factor:5.0, indexed in SSCI)  
+2024.11 My two first-author submissions for AERA are accepted!  
+
+
 
 
