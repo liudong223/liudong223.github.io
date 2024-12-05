@@ -212,10 +212,10 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /_pages/teaching.html/
+    permalink: /https://liudong223.github.io/teaching.html/
   publications:
     output: true
-    permalink: /_pages/publications.html/
+    permalink: /https://liudong223.github.io/publications.html/
   portfolio:
     output: true
     permalink: /:collection/:path/
