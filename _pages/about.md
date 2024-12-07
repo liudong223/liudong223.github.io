@@ -31,11 +31,11 @@ You can find my CV here:
 
 🎉News
 ======
-2024.12:  🔊Our paper titled [Instructional designers’ professional futures: insights from best possible self and epistemic network analysis](https://link.springer.com/article/10.1007/s11423-024-10441-2) is published in Educational Technology Research and Development Journal (Impact Factor: 4.8, indexed in SSCI)  
+⁍ 2024.12:  📃 Our paper titled [Instructional designers’ professional futures: insights from best possible self and epistemic network analysis](https://link.springer.com/article/10.1007/s11423-024-10441-2) is published in Educational Technology Research and Development Journal (Impact Factor: 4.8, indexed in SSCI)  
 
-2024.11:  🔊Our paper titled [Unveiling novice instructional designers’ professional identity: exploring dispositions through future-oriented reflections](https://link.springer.com/article/10.1007/s10734-024-01366-z) is published in Higher Education Journal (Impact Factor:5.0, indexed in SSCI)  
+⁍ 2024.11:  📃 Our paper titled [Unveiling novice instructional designers’ professional identity: exploring dispositions through future-oriented reflections](https://link.springer.com/article/10.1007/s10734-024-01366-z) is published in Higher Education Journal (Impact Factor:5.0, indexed in SSCI)  
 
-2024.11:  My two first-author submissions for AERA are accepted!  
+⁍ 2024.11:  👏👏👏 My two first-author submissions for AERA are accepted!  
 
 
 
