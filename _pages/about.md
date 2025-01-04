@@ -13,7 +13,7 @@ I'm currently a fourth year PhD student in Learning, Design and Technology progr
 
 My current research interests focuses on the following topics:  
 ⁍ Students interaction patterns in online discussions  
-⁍ Learning analytics (especailly network analysis)  
+⁍ Learning analytics (especially network analysis)  
 ⁍ Community of Inquiry (especially social and cognitive presence)  
 ⁍ AI in education  
 
