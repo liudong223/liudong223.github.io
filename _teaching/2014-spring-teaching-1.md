@@ -8,3 +8,4 @@ date: 2018-2019
 location: "Beijing, China"
 ---
 
+bundle exec jekyll build --verbose
