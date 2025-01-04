@@ -9,19 +9,19 @@ main:
     url: /publications/
 
   - title: "Conference Presentations"
-    url: /portfolio/    
+    url: /conference-presentations/    
 
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Service"
-    url: /portfolio/
+    url: /service/
         
   - title: "Design"
-    url: /Design/
+    url: /design/
     
   - title: "CV"
     url: /cv/
     
   - title: "More Info"
-    url: /More Info/
+    url: /more-info/
