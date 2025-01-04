@@ -6,7 +6,7 @@
 
 main:
   - title: "Publications"
-    url: /_publications/
+    url: /publications/
 
   - title: "Conference Presentations"
     url: /conference-presentations/    
